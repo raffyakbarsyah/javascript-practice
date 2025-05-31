@@ -7,12 +7,29 @@
 </head>
 <body>
   <script>
-    const max = 57;
-    const actual = max - 13;
-    const percentage = (actual / max);
+    let username = prompt("Who's there?");
+    if (username ==="Admin") {
+      let login = prompt("Password?");
+      if (login ==="TheMaster"){
+        alert("Welcome!")
+      }
+      else if (login === '' || login === null) {
+        alert("Canceled")
+      }
 
-    console.log(percentage);
-    node installed
+      else {
+        alert("Wrong Password")
+      }
+    }
+
+    else if (username === '' || username === null) {
+      alert("Canceled")
+    }
+
+    else {
+      alert("I don't know you")
+    }
+  
   </script>
 </body>
 </html>
