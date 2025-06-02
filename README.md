@@ -42,4 +42,4 @@ This repository contains my personal solutions to beginner-level JavaScript task
 
 ### 4. Rewrite 'if' into '?' (Importance: 5)
 
-### 5. Rewrite 'if..else' into '?'
+### 5. Rewrite 'if..else' into '?' (Importance: 5)
