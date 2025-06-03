@@ -17,6 +17,8 @@ This repository contains my personal solutions to beginner-level JavaScript task
 
 **Note**: This task is solved using **nested `if` statements** for better structure and readability.
 
+![Screenshot 2025-06-03 223208](https://github.com/user-attachments/assets/b148fb07-4c4b-4612-98de-d7b60f87c0d2)
+
 ---
 
 ### 2. The Name of JavaScript (Importance: 2)
@@ -25,6 +27,8 @@ This repository contains my personal solutions to beginner-level JavaScript task
 
 - If input is `"ECMAScript"` → show `"Right!"`
 - Otherwise → show `"You don’t know? ECMAScript!"`
+  
+![Screenshot 2025-06-03 223257](https://github.com/user-attachments/assets/43637862-d5dc-409d-b520-bdadfa2a3f08)
 
 ---
 
