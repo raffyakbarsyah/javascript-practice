@@ -40,7 +40,6 @@ This repository contains my personal solutions to beginner-level JavaScript task
 - `-1` if the number is less than zero
 - `0` if the number is exactly zero
 
-💡 Assumption: the input is always a valid number.
 
 ---
 
